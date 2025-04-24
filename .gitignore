@@ -1,6 +1,7 @@
 #数据集
 data/
 !data/result_data/
+!data/result_data/**
 
 #测试集
 utils/resources/
